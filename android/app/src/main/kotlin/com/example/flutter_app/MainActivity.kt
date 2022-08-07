@@ -1,4 +1,4 @@
-package com.example.atomic_design_handson
+package com.example.template_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
